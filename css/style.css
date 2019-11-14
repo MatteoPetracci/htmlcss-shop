@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  padding: 15px;
+}
+.box {
+  display: inline-block;
+  background-color: grey;
+  height: 250px;
+  width: 230px;
+  margin-bottom: 30px;
+}
+
+img {
+  width: 100%;
+}
