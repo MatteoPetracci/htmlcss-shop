@@ -7,6 +7,7 @@ body {
   padding: 15px;
 }
 .box {
+  position: relative;
   display: inline-block;
   background-color: grey;
   height: 250px;
@@ -14,6 +15,16 @@ body {
   margin-bottom: 30px;
 }
 
+.row {
+  margin-bottom: 35px;
+}
+
 img {
   width: 100%;
+}
+
+.discount {
+  position: absolute;
+  top: 0;
+  right: 0;
 }
